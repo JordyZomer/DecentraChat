@@ -1,0 +1,2 @@
+# DecentraChat
+Decentralised Chat protocol
